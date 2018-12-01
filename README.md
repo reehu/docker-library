@@ -2,6 +2,8 @@
 ## docker-library
 
 kubernetes 相关 images 同步
+# 2.18.12.1
+	增加tagV1.12.0
 
 # 2018.12.1
 
