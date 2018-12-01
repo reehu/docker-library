@@ -1,13 +1,23 @@
-## 招聘信息
-* 公司：中国电信云公司
-* 职业：openstack研发
-* 要求：有openstack研发经验，能对openstack组件做二次开发，或者有志从事云计算开发事业的大牛高手。
-* 薪资：20k-50k
-* 邮箱：yangjf@chinatelecom.cn
 
 ## docker-library
 
 kubernetes 相关 images 同步
+
+# 2011.12.1
+
+	kube-apiserver-amd64:v1.12.0
+	kube-controller-manager-amd64:v1.12.0
+	kube-scheduler-amd64:v1.12.0
+	kube-proxy-amd64:v1.12.0
+	etcd-amd64:3.2.24
+	pause-amd64:3.1
+	k8s-dns-sidecar-amd64:1.14.9
+	k8s-dns-kube-dns-amd64:1.14.9
+	k8s-dns-dnsmasq-nanny-amd64:1.14.9
+	flannel:v0.10.0-amd64
+
+
+
 
 # 2018.1.2017
 
