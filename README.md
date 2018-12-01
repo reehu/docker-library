@@ -3,7 +3,7 @@
 
 kubernetes 相关 images 同步
 
-# 2011.12.1
+# 2018.12.1
 
 	kube-apiserver-amd64:v1.12.0
 	kube-controller-manager-amd64:v1.12.0
